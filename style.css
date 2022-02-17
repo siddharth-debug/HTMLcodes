@@ -1,0 +1,152 @@
+.first{
+    background-color: rgb(176, 251, 229);
+    height: 690px;
+    width: 100%;
+}
+.welcome{
+    font-family: "Raleway",sans-serif;
+    font-weight: 900;
+    font-size: 140px;
+    text-align: center;
+    color: transparent;
+    background-image: url(tenor.gif);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+.me{
+    height: 350px;
+    position: absolute;
+    left:470px;
+    top: 250px;
+    border-radius: 20%;
+}
+.name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    position: absolute;
+    left:500px;
+    top: 600px;
+}
+.second{
+    background-color: rgb(62, 192, 224);
+    height: 1000px;
+    width: full;
+}
+.school{
+    position: relative;
+    top: 40px;
+    left: 35px;
+}
+.info{   
+     color: whitesmoke;
+     font-style: oblique;
+     font-size: 30px;
+     position: relative;
+     top: -130px;
+     left: 350px;
+}
+.movie{
+    height:200px ;
+    position: relative;
+    bottom: 100px;
+    right: -1020px;
+}
+.infoo{
+    color: whitesmoke;
+    font-style: oblique;
+    font-size: 30px;
+    position: relative;
+    bottom:300px ;
+    left: 500px;
+}
+.books{
+    height:200px ;
+    position: relative;
+    bottom: 320px;
+    left: -0.5px;
+}
+.novel{
+    color: whitesmoke;
+    font-style: oblique;
+    font-size: 30px;
+    position: relative;
+    bottom:450px ;
+    left: 190px;
+}
+.songs{
+    height:200px ;
+    position: relative;
+    bottom: 430px;
+    left: 995px;
+}
+.song{
+    color: whitesmoke;
+    font-style: oblique;
+    font-size: 30px;
+    position: relative;
+    bottom:600px;
+    left: 400px;
+}
+.third{
+    background-color: rgb(238, 179, 248);
+    height: 450px;
+    width: full;
+}
+.interest{
+    font-size: 40px;
+    font-family: 'Sigmar One', cursive;
+    text-align: center;
+    padding-top: 60px;
+}
+button{
+    text-align: center;
+    position: relative;
+    left: 550px;
+    height: 100px;
+    width: 200px;
+    border-radius: 40%;
+    background-color: yellow;
+    -moz-box-shadow:    inset 0 0 10px #000000;
+   -webkit-box-shadow: inset 0 0 10px #000000;
+   box-shadow:         inset 0 0 10px #000000;
+}
+button:hover{
+    transition-duration: 4000ms;
+    position: relative;
+    left: 550px;
+    height: 100px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: rgb(61, 233, 61);
+    -moz-box-shadow:    inset 0 0 10px #000000;
+   -webkit-box-shadow: inset 0 0 10px #000000;
+   box-shadow:         inset 0 0 10px #000000;
+}
+.contact{
+    position: relative;
+    font-size: 30px;
+    text-align: center;
+    font-family: limelight;
+    display: flex;
+}
+.fourth{
+    background-color: tomato;
+    height: 200px;
+    width: unset;
+    word-spacing: 30px;
+}
+.sm{
+    text-decoration: none;
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 40px;
+    left: 500px;
+}
+.copyright{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 100px ;
+    padding-left: 600px;
+}
+
